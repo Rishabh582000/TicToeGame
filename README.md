@@ -1,2 +1,2 @@
 # TicToeGame
-TicTacGame
+Tic Tac Game
