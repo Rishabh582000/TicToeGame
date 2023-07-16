@@ -1,2 +1,2 @@
 # TicToeGame
-TicTacGame
+TicTacGame is played with two people.
